@@ -2,7 +2,7 @@
 // @name         No promoted job announces filter
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  adds filter for hide "promoted" marked announces from job search results
 // @author       You
 // @match        https://www.linkedin.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=linkedin.com
